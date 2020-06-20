@@ -7,8 +7,9 @@
     "serve": "webpack --mode development --watch --display errors-only",
     "build": "NODE_ENV=production webpack --mode production"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "url": "https://github.com/IHIutch/lumberjack_webpack_package_json_starter"
+  },
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
